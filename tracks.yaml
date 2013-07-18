@@ -12,9 +12,9 @@ tracks:
     name: upstream
     patches: null
     release_inc: -1
-    release_repo_url: git@github.com:ipa320/cob_common
+    release_repo_url: git@github.com:ipa320/cob_description-release
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/ipa320/cob_common.git:groovy_catkin
-    version: :{auto}
+    vcs_uri: https://github.com/ipa320/cob_common.git
+    version: :groovy_catkin
