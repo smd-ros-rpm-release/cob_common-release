@@ -17,4 +17,4 @@ tracks:
     ros_distro: hydro
     vcs_type: git
     vcs_uri: https://github.com/ipa320/cob_common.git
-    version: :groovy_catkin
+    version: groovy_catkin
