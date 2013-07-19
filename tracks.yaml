@@ -12,7 +12,7 @@ tracks:
     name: upstream
     patches: null
     release_inc: -1
-    release_repo_url: git@github.com:ipa320/cob_description-release
+    release_repo_url: git@github.com:ipa320/cob_common-release
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
