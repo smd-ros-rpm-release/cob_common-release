@@ -12,7 +12,7 @@ tracks:
     last_version: groovy_catkin
     name: upstream
     patches: null
-    release_inc: '1'
+    release_inc: '2'
     release_repo_url: git@github.com:ipa320/cob_common-release.git
     release_tag: :{version}
     ros_distro: hydro
