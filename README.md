@@ -1,3 +1,28 @@
+## cob_common (hydro) - 0.5.2-1
+
+User `fmw@fmw-xps` released the packages in the `cob_common` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro cob_common` on `Fri, 21 Mar 2014 17:04:57 -0000`
+
+These packages were released:
+- `brics_actuator`
+- `cob_common`
+- `cob_description`
+- `cob_srvs`
+- `desire_description`
+- `raw_description`
+
+Version of package(s) in repository `cob_common`:
+- rosdistro version: `0.5.2-0`
+- old version: `0.5.2-0`
+- new version: `0.5.2-1`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## cob_common (hydro) - 0.5.2-0
 
 User `fmw@fmw-xps` released the packages in the `cob_common` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro cob_common --edit` on `Thu, 20 Mar 2014 07:45:01 -0000`
