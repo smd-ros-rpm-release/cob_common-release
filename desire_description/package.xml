@@ -1,6 +1,6 @@
 <package>
   <name>desire_description</name>
-  <version>0.5.3</version>
+  <version>0.5.4</version>
   <description>This package contains the description (mechanical, kinematic, visual,
   etc.) of the Desire robot. The files in this package are parsed and used by
   a variety of other components. Most users will not interact directly
@@ -11,16 +11,11 @@
   <url type="website">http://ros.org/wiki/desire_description</url>
   <!-- <url type="bugtracker"></url> -->
 
-  <maintainer email="fmw@ipa.fhg.de">Florian Weisshardt</maintainer>
+  <maintainer email="nhg@ipa.fhg.de">Nadia Hammoudeh Garcia</maintainer>
   <author email="fmw@ipa.fhg.de">Florian Weisshardt</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
   <run_depend>cob_description</run_depend>
-  <run_depend>gazebo_ros</run_depend>
 
-
-  <test_depend>gtest</test_depend>
-  <test_depend>urdfdom</test_depend>
-  
 </package>
