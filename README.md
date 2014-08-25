@@ -1,3 +1,29 @@
+## cob_common (indigo) - 0.5.4-0
+
+The packages in the `cob_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_common --edit` on `Mon, 25 Aug 2014 12:19:33 -0000`
+
+These packages were released:
+- `brics_actuator`
+- `cob_common`
+- `cob_description`
+- `cob_msgs`
+- `cob_srvs`
+- `desire_description`
+- `raw_description`
+
+Version of package(s) in repository `cob_common`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.10`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## cob_common (hydro) - 0.5.3-0
 
 User `fmw@fmw-xps` released the packages in the `cob_common` repository into the `hydro` distro by running `/usr/bin/bloom-release --ros-distro hydro --track hydro cob_common` on `Mon, 31 Mar 2014 10:29:34 -0000`
