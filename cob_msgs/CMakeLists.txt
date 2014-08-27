@@ -10,11 +10,12 @@ add_message_files(
   BatteryState2.msg
   BatteryState.msg
   DashboardState.msg
+  EmergencyStopState.msg
   PowerBoardState.msg
   PowerState.msg
 )
 
 generate_messages(DEPENDENCIES geometry_msgs std_msgs)
 
-catkin_package(CATKIN_DEPENDS std_msgs geometry_msgs)
+catkin_package(CATKIN_DEPENDS std_msgs geometry_msgs message_runtime)
 
