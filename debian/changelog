@@ -1,0 +1,57 @@
+ros-indigo-cob-common (0.6.1-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 23 Sep 2014 22:00:00 -0000
+
+ros-indigo-cob-common (0.6.0-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Mon, 15 Sep 2014 22:00:00 -0000
+
+ros-indigo-cob-common (0.5.5-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 26 Aug 2014 22:00:00 -0000
+
+ros-indigo-cob-common (0.5.4-0saucy) saucy; urgency=high
+
+  * update changelog
+  * introducing cob_msgs package in order to replace pr2_msgs
+  * cleaning up debs
+  * cleaning up debs
+  * Merge pull request #95 <https://github.com/ipa320/cob_common/issues/95> from ipa320/hydro_release_candidate
+    bring back changes from Hydro release candidate
+  * New maintainer
+  * Contributors: Felix Messmer, Florian Weisshardt, Nadia Hammoudeh García, ipa-fxm, ipa-nhg
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-indigo-cob-common (0.5.3-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sun, 30 Mar 2014 22:00:00 -0000
+
+ros-indigo-cob-common (0.5.2-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 19 Mar 2014 23:00:00 -0000
+
+ros-indigo-cob-common (0.5.1-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Fri, 16 Aug 2013 02:14:35 +0200
+
+ros-indigo-cob-common (0.5.0-0saucy) saucy; urgency=high
+
+  * Catkin for cob_common
+  * Contributors: abubeck
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Fri, 16 Aug 2013 02:14:35 +0200
+
+
