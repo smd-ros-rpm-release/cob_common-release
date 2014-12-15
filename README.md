@@ -1,3 +1,30 @@
+## cob_common (indigo) - 0.6.2-0
+
+The packages in the `cob_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_common` on `Mon, 15 Dec 2014 16:15:45 -0000`
+
+These packages were released:
+- `brics_actuator`
+- `cob_common`
+- `cob_description`
+- `cob_msgs`
+- `cob_srvs`
+- `raw_description`
+
+Version of package(s) in repository `cob_common`:
+- upstream repository: https://github.com/ipa320/cob_common.git
+- release repository: https://github.com/ipa320/cob_common-release.git
+- rosdistro version: `0.6.1-0`
+- old version: `0.6.1-0`
+- new version: `0.6.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.15`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## cob_common (indigo) - 0.6.1-0
 
 The packages in the `cob_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_common` on `Wed, 24 Sep 2014 14:24:45 -0000`
