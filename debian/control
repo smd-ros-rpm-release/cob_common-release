@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-srvs
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-message-generation
+Homepage: http://ros.org/wiki/cob_srvs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-srvs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-message-runtime
+Description: This Package contains Care-O-bot specific service definitions.
