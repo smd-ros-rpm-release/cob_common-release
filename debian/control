@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-common
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/cob_common
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cob-description, ros-indigo-cob-msgs, ros-indigo-cob-srvs, ros-indigo-raw-description
+Description: The cob_common stack hosts common packages that are used within the Care-O-bot repository. E.g. utility packages or common message and service definitions etc. Also the urdf desciption of the robot is located in this stack.
